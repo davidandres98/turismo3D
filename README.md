@@ -5,7 +5,7 @@ se encuentran los archivos para corrrer la aplicacion
 pasos :
 
 1 descargar el apk de ionic turismo
-ejecutarla y ver los luagares
+ejecutarla y ver lugares (por el momento solo despliega la informacion de la iglesia sabaneta)
 
 2 Descargar la imagen target donde se enfocara la camara para ver el modelo 3D
 
